@@ -1,3 +1,18 @@
 body{
-    background-color: aqua;
+    background-color: rgb(116, 253, 246);
+    color:rgb(45, 45, 105); font-family: 'Roboto', sans-serif;;
+}
+
+
+.button{
+   background-color: rgb(7, 7, 88); color: cornsilk;
+}
+.img{
+    background-color: cornsilk;
+}
+h2{
+    background-color: rgb(7, 7, 88) ; color: ivory;
+}
+.div{
+    background-color:khaki ;
 }
